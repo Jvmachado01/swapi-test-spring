@@ -1,6 +1,6 @@
 # Star Wars API Consumer
 
-Aplicação RESTful que faz requisições para a SWAPI (Star Wars API) e popula com os dados indicados um banco de dados em memória, no qual, após a população, é possível fazer operações CRUD.
+Aplicação RESTful que faz requisições para a SWAPI (Star Wars API) `https://swapi.dev/api/planets` e popula com os dados indicados um banco de dados em memória, no qual, após a população, é possível fazer operações CRUD.
 
 API implementada para mapear dados do nome dos planetas, seu clima, terreno e em quais filmes o planeta aparece.
 
